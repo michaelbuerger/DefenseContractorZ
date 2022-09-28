@@ -1,0 +1,11 @@
+Game:
+- integrate GLEngine as library
+- create git + GitHub repo
+- add readme
+- add gitignore
+- add license
+
+Engine:
+- get things to actually work
+- multi-platform
+- abstract everything through engine (mainly CPPML)
